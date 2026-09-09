@@ -11370,6 +11370,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "UnTouchID",
+            "short_description": "Use your phone's fingerprint to authenticate on any Mac.",
+            "categories": [
+                "security",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/HMAKT99/UnTouchID",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/HMAKT99/UnTouchID",
+            "languages": [
+                "swift",
+                "c"
+            ]
         }
     ]
 }
