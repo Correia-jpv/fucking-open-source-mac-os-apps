@@ -12,9 +12,9 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-703-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-704-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-September%205,%202026-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-September%209,%202026-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 703 |
+| 📱 Total Applications | 704 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 313 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 43 |
+| 🔝 Top Languages | Swift: 314 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 43 |
 
 ## Languages
 
@@ -4452,7 +4452,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (57)
+### 📊 Menubar (58)
 - [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
@@ -4552,6 +4552,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/theDanButuc/Claude-Usage-Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor)
 
 - [ClaudeUsageBar](https://github.com/yagcioglutoprak/ClaudeUsageBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
@@ -7878,7 +7884,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (120)
+### 🛠️ Utilities (121)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -8078,6 +8084,12 @@ You can see in which language an app is written. Currently there are following l
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/theDanButuc/Claude-Usage-Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor)
 
 - [ClaudeUsageBar](https://github.com/yagcioglutoprak/ClaudeUsageBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
