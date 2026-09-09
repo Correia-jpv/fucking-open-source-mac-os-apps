@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-704-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-705-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-September%209,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 704 |
+| 📱 Total Applications | 705 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 314 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 43 |
+| 🔝 Top Languages | Swift: 315 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 43 |
 
 ## Languages
 
@@ -4452,7 +4452,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (58)
+### 📊 Menubar (59)
 - [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
@@ -4828,6 +4828,12 @@ You can see in which language an app is written. Currently there are following l
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) - A pixel-art crab lives in your MacBook notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/deepshal99/notch-so-good](https://github.com/deepshal99/notch-so-good)
 
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
@@ -7884,7 +7890,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (121)
+### 🛠️ Utilities (122)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -8654,6 +8660,12 @@ You can see in which language an app is written. Currently there are following l
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) - A pixel-art crab lives in your MacBook notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/deepshal99/notch-so-good](https://github.com/deepshal99/notch-so-good)
 
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet). 
 
