@@ -9148,6 +9148,10 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Now Playing album cover and title in the corner beside the Dock.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
 - <b><code>&nbsp;&nbsp;&nbsp;731⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;32🍴</code></b> [NoiseBuddy](https://github.com/insidegui/NoiseBuddy)) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
