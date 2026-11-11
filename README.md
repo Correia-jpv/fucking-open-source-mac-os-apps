@@ -2140,6 +2140,10 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
 - <b><code>&nbsp;11748⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;907🍴</code></b> [CodeBurn](https://github.com/getagentseal/codeburn)) - Menu bar app that shows what your AI coding tools cost, by project, model and task, across Claude Code, Codex, Cursor and 38 more.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -6307,6 +6311,10 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock & crypto ticker sitting in the unused corner space beside the Dock.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;23⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [TetherShot](https://github.com/apoorvdarshan/TetherShot)) - Capture pixel-perfect iPhone screenshots from the macOS menu bar over USB or Wi-Fi.
 
